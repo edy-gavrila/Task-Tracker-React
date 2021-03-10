@@ -1,0 +1,22 @@
+.btn-add {
+  padding: 10px;
+  color: white;
+  background-color: green;
+  border: none;
+  border-radius: 3px;
+  font-family: inherit;
+  font-size: 18px;
+  width: 100px;
+}
+
+.btn-add:hover {
+  opacity: 80%;
+}
+
+.btn-add:focus {
+  outline: none;
+}
+
+.btn-add:active {
+  transform: scale(0.98);
+}
